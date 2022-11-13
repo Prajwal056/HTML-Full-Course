@@ -24,7 +24,7 @@
 📝 HTML5 cheatsheet
 <br>
 <br>
-![image](https://github.com/Prajwal056/html5FIles/blob/main/images/cheatsheet1.png)
+![image](https://github.com/Prajwal056/HTML-Full-Course/blob/main/images/cheatsheet1.png)
 
 
 
