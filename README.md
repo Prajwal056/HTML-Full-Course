@@ -8,7 +8,7 @@
 - [HTML Cheat Sheet](https://texteditor.com/characters/)
 ---
 
-✅ Important extensions for Vscode for FrontEndFront-End Developement
+✅ Important extensions for Vscode for Front-End Developement
  
  - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
  - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
